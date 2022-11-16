@@ -1,2 +1,2 @@
-# translator - my new project
+# translator - app project
 App project for personal use
